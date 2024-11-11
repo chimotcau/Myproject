@@ -27,3 +27,10 @@ Architecture Scheme
 
 Description of Architecture
 ![Description of Architecture](https://github.com/user-attachments/assets/f6232819-cf6f-4c48-af05-2b39293872cc)
+
+class_diagram
+![class_diagram](https://github.com/user-attachments/assets/f56be11d-960e-405b-aacf-2972e1a786a4)
+
+sequence_diagram
+![sequence_diagram](https://github.com/user-attachments/assets/ca3bf0b6-fa6d-4cd7-9d89-0c59419b6899)
+
