@@ -3,7 +3,7 @@ For those who are not familiar with the game Flappy Bird, it is a popular mobile
 ## Installation
 First of all, you need to clone the project by:
 ```bash
-git clone https://github.com/phucvu18/project1.git
+git clone https://github.com/chimotcau/Myproject
 ```
 Then you need to download Pygame and run Flappy.ru.
 
