@@ -22,8 +22,8 @@ or
 ```bash
 python3 Flappy Bird.py
 ```
-
-## Contributing
-If you are a collaborator it means that you could make any changes.
+Architecture Scheme
 ![Architecture Scheme](https://github.com/user-attachments/assets/5db321a5-e1bd-4499-8ba2-c1b6d96a9700)
+
+Description of Architecture
 ![Description of Architecture](https://github.com/user-attachments/assets/f6232819-cf6f-4c48-af05-2b39293872cc)
