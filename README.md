@@ -5,23 +5,9 @@ First of all, you need to clone the project by:
 ```bash
 git clone https://github.com/chimotcau/Myproject
 ```
-Then you need to go to cloned directory and change the branch.
-```bash
-cd project1
-git checkout checkpoint3
-```
-On the branch dev you need to pip install required modules:
-```bash
-pip install -r requirements.txt
-```
-And after this you can finally launch it:
-```bash
-python Flappy Bird.py
-```
-or 
-```bash
-python3 Flappy Bird.py
-```
+Then you need to download Pygame and run Flappy.ru.
+
+
 Architecture Scheme
 ![Architecture Scheme](https://github.com/user-attachments/assets/5db321a5-e1bd-4499-8ba2-c1b6d96a9700)
 
